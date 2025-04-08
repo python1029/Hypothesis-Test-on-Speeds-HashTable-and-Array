@@ -6,7 +6,7 @@ This is a simple speed comparison between Hash Table and Standard Array based on
 
 - This is called Paired T Test, that test on the mean difference of a population, but two different treatments
 - The main focus will be the mean speed in completing simple tasks
-- ![alt text](TestHypothesis.png)
+- ![alt text](Images/TestHypothesis.png)
 
 ## Data Collecting:
 
