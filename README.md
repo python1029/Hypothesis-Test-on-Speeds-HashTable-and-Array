@@ -10,14 +10,14 @@ This is a simple speed comparison between Hash Table and Standard Array based on
 
 ## Data Collecting:
 
-- ![alt text](DataCollecting.png)
+- ![alt text](Images/DataCollecting.png)
 
 ## Define variables and Formula
 
 - I will use 99% 2-sided Confidence Interval
-- Formula: ![alt text](Intervals.png)
-- Variables: ![alt text](Variable.png)
+- Formula: ![alt text](Images/Intervals.png)
+- Variables: ![alt text](Images/Variable.png)
 
 ## Conclusion:
 
-- ![alt text](image-1.png)
+- ![alt text](Images/Conclusion.png)
